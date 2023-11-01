@@ -1,0 +1,585 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายการสินค้าใกล้หมด",
+                "size": "20px",
+                "color": "#ffffff",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "อย่าลืมเติมสต๊อก",
+                "size": "20px",
+                "color": "#ffffff",
+                "weight": "bold"
+              }
+            ],
+            "width": "95%"
+          }
+        ],
+        "width": "80%"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "7",
+                    "size": "35px",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ],
+                "offsetBottom": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "รายการ",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#ffffff"
+                  }
+                ],
+                "offsetBottom": "5px"
+              }
+            ],
+            "borderWidth": "2px",
+            "borderColor": "#ffffff",
+            "cornerRadius": "16px",
+            "justifyContent": "center",
+            "height": "86px",
+            "alignItems": "center"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "270deg",
+      "startColor": "#C30006",
+      "endColor": "#E13232"
+    },
+    "height": "90px",
+    "alignItems": "center",
+    "paddingStart": "5%",
+    "paddingEnd": "0.5%"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สินค้า",
+                "size": "12px",
+                "color": "#A8AAAE",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "จำนวนคงเหลือ",
+                "size": "12px",
+                "color": "#A8AAAE",
+                "weight": "bold",
+                "align": "end"
+              }
+            ]
+          }
+        ],
+        "paddingStart": "5%",
+        "paddingEnd": "5%",
+        "paddingTop": "2%",
+        "paddingBottom": "2%"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "backgroundColor": "#F3F3F5",
+        "height": "1px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1.",
+                "size": "12px",
+                "color": "#A8AAAE"
+              }
+            ],
+            "width": "3%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1168778202026623016/image_385_1.png?ex=65530086&is=65408b86&hm=f19b35722165a04b7b5d38090d3f0a1290f37633f30811e2af7f5b2261efdb3c&",
+                    "aspectMode": "fit",
+                    "aspectRatio": "1:1"
+                  }
+                ],
+                "height": "60px",
+                "width": "60px",
+                "cornerRadius": "15px"
+              }
+            ],
+            "width": "60px",
+            "margin": "8px",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ไม้ฝา_SCG 15x300",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เทาแพลตินัม คลูพลัส",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "60%",
+            "margin": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "100",
+                    "size": "18px",
+                    "color": "#FF3333",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แผ่น",
+                    "size": "12px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              }
+            ],
+            "margin": "10px",
+            "alignItems": "flex-end",
+            "justifyContent": "center"
+          }
+        ],
+        "backgroundColor": "#FFFFFF",
+        "paddingStart": "5%",
+        "paddingEnd": "5%",
+        "paddingTop": "3%",
+        "paddingBottom": "3%"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "2.",
+                "size": "12px",
+                "color": "#A8AAAE"
+              }
+            ],
+            "width": "3%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1168788930078969917/image_387_2.png?ex=65530a83&is=65409583&hm=15be15c4df356100ab433d87fd8817a6e01022722145bfdcb197aa5bbd97f60d&",
+                    "aspectMode": "fit",
+                    "aspectRatio": "1:1"
+                  }
+                ],
+                "height": "60px",
+                "width": "60px",
+                "cornerRadius": "15px"
+              }
+            ],
+            "width": "60px",
+            "margin": "8px",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แผ่นสะท้อนความร้อน เอสซีจี",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ขนาด 1.25x60 ม.",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "60%",
+            "margin": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "50",
+                    "size": "18px",
+                    "color": "#FF3333",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แผ่น",
+                    "size": "12px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              }
+            ],
+            "margin": "10px",
+            "alignItems": "flex-end",
+            "justifyContent": "center"
+          }
+        ],
+        "backgroundColor": "#F8F8FF",
+        "paddingStart": "5%",
+        "paddingEnd": "5%",
+        "paddingTop": "3%",
+        "paddingBottom": "3%"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "3.",
+                "size": "12px",
+                "color": "#A8AAAE"
+              }
+            ],
+            "width": "3%",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1168778202026623016/image_385_1.png?ex=65530086&is=65408b86&hm=f19b35722165a04b7b5d38090d3f0a1290f37633f30811e2af7f5b2261efdb3c&",
+                    "aspectMode": "fit",
+                    "aspectRatio": "1:1"
+                  }
+                ],
+                "height": "60px",
+                "width": "60px",
+                "cornerRadius": "15px"
+              }
+            ],
+            "width": "60px",
+            "margin": "8px",
+            "justifyContent": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ไม้ฝา_SCG 15x300 ไนท์เกรย์",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คลูพลัส",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "60%",
+            "margin": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "20",
+                    "size": "18px",
+                    "color": "#FF3333",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แผ่น",
+                    "size": "12px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              }
+            ],
+            "margin": "10px",
+            "alignItems": "flex-end",
+            "justifyContent": "center"
+          }
+        ],
+        "backgroundColor": "#F8F8FF",
+        "paddingStart": "5%",
+        "paddingEnd": "5%",
+        "paddingTop": "3%",
+        "paddingBottom": "3%"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "backgroundColor": "#F3F3F5",
+        "height": "1px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สั่งสินค้า",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "color": "#A8AAAE"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ดูรายละเอียด",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "color": "#E13232"
+              }
+            ],
+            "margin": "15px"
+          }
+        ],
+        "paddingStart": "5%",
+        "paddingEnd": "5%",
+        "paddingTop": "3%"
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1168790492251701319/Component_56_1.png?ex=65530bf8&is=654096f8&hm=6b611a36f6d360e122324d6fc351a24e7c7776e6516f33cd2385f6055fca5b71&",
+            "aspectMode": "fit",
+            "size": "full",
+            "aspectRatio": "25:1"
+          }
+        ],
+        "offsetStart": "41%"
+      }
+    ]
+  }
+}
